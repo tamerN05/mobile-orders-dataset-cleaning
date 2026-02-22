@@ -8,6 +8,7 @@ This project focus on cleaning a raw dataset and preparing it for analysis and d
 - split columns using text to columns
 - handled missing values
 - standardized data , number and currency formats
+- themed the data indeed
 
 ## Tools used
 -Microsoft Excel
